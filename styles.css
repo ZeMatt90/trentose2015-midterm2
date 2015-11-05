@@ -40,6 +40,10 @@ h1 > span{
   display: block;
 }
 
+.final > .hidden h3{
+  display: none;
+}
+
 
 .options {
   text-align: center;
